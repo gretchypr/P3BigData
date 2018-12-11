@@ -1,0 +1,11 @@
+keyword,model,p1,p2,total
+flu,0,29,7,36
+flu,1,32,4,36
+zika,0,0,1,1
+zika,1,0,1,1
+diarrhea,0,2,0,2
+diarrhea,1,1,0,1
+ebola,0,0,0,0
+ebola,1,0,0,0
+measles,0,0,0,0
+measles,1,0,0,0
