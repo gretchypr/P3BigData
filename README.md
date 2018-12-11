@@ -9,6 +9,7 @@ Has code with ML using keras classifies tweets as follows:
     0 - Does not talk about medical contition
     1 - Does talk about medical condition
     2 - Ambiguous
+ 
 It will classify tweets obtained from P2 that have the following keyword:
     a. Flu
     b. Zika
